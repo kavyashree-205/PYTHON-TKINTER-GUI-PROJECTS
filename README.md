@@ -18,3 +18,9 @@ This is little bit complicated when compared to other listed projects. The widge
 
 ![](bill.jpg)
 
+4.CURRENCY CONVERTER :
+
+This is super easy and fun project to do. Feel free to refer my codeand i'm open to better codes and suggestions.
+
+![](currency.jpg)
+
