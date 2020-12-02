@@ -35,7 +35,24 @@ This is little bit complicated when compared to other listed projects. The widge
 
 This is super easy and fun project to do. Feel free to refer my code and, I am always open to better codes and suggestions.
 
+The conversion in this project is based on today’s value. I have created 5 conversions which includes,
+
+1.Indian Rupee to American Dollar
+
+2.Indian Rupee to Yen
+
+3.Indian Rupee to Euro
+
+4.Indian Rupee to Bitcoin
+
+5.Indian Rupee to Saudi Riyal
+
+I have used GUI(Graphical User Interface) to complete this project. The widgets used in this project are Labels, Buttons and Drop down menus.
+
+
 ![](currency.jpg)
+
+
 
 5.FLAMES GAME : 
 
