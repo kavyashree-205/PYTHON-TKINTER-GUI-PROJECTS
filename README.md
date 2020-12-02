@@ -34,5 +34,5 @@ Kids of age of 8 to 12 play this game. Its basically to put our crush names and 
 
 Its a 2 player game. I have made this with Frames, Buttons and Entry Boxes. Have a look at the output.
 
-![](tic-tac.jpg)
+![](tic.jpg)
 
