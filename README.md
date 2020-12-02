@@ -28,5 +28,5 @@ This is super easy and fun project to do. Feel free to refer my code and, I am a
 
 Kids of age of 8 to 12 play this game. Its basically to put our crush names and do FLAMES(Friends,Love,Affection,Marriage,Enemy,Sibling). The logic to play this game is first cancel all the common characters from the both the names and then count the remaining ones. This count serves as iterating factor. Loop over FLAMES word with this count and cancel letters everytime the count ends. Take a look at the output.
 
-![](flames-gui.jpg)
+![](flames.jpg)
 
