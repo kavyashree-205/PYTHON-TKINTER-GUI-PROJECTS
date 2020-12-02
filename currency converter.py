@@ -1,6 +1,5 @@
 #importing tkinter module
 from tkinter import *
-from tkinter import messagebox
 
 #creating a window
 root=Tk()
