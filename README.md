@@ -36,3 +36,9 @@ Its a 2 player game. I have made this with Frames, Buttons and Entry Boxes. Have
 
 ![](tic.jpg)
 
+7.ZODIAC SIGN CALCULATOR : 
+
+It calculates your Zodiac sign with input given as Date and Month. Have a look at the output.
+
+![](zodiac-sign.jpg)
+
