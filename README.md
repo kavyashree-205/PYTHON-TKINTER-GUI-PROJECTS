@@ -12,3 +12,9 @@ I have made this BMI calculator app using widgets such as Slider, Dropdown Menu,
 
 ![](bmi.jpg)
 
+3.BILLING SYSTEM : 
+
+This is little bit complicated when compared to other listed projects. The widgets used are Labels, Buttons, Text Area, Label Frames, Frames, Entry Fields. Have a look at the output.
+
+![](bill.jpg)
+
