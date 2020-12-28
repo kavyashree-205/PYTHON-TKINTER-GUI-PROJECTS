@@ -72,3 +72,9 @@ It calculates your Zodiac sign with input given as Date and Month. Have a look a
 
 ![](zodiac-sign.jpg)
 
+8.Register/Login form : 
+
+This is a GUI application to register and login.
+
+![](forms.png)
+
