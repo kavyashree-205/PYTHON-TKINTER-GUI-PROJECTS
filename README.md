@@ -78,3 +78,10 @@ This is a GUI application to register and login.
 
 ![](forms.png)
 
+9.Number Guessing Game using colours:
+
+Basically its a number guessing game from 1 to 10, the trick involved in this is guessing the number using color as a hint. The closer you are to the correct number the warmer
+the color is and far away from the number is indicated by blue shaded colors. So the correct number is indicated with red color and as you move away from the number it turns bluish. 
+
+
+
