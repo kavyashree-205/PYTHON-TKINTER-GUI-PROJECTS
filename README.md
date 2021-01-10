@@ -1,8 +1,6 @@
 *****PYTHON TKINTER GUI PROJECTS*****
 
-1.AGE CALCULATOR :
-
-[a relative link](AGE CALCULATOR.py)
+1.AGE CALCULATOR(AGE CALCULATOR.py):
 
 I have made this age calculator app using basic widgets such as Labels, Buttons, Entry fields with a little bit of logic. Have a look at the output.
 
@@ -21,7 +19,7 @@ Briefing the steps to create age calculator are:
 
 
 
-2.BMI CALCULATOR :
+2.BMI CALCULATOR(BMI CALCULATOR.py):
 
 I have made this BMI calculator app using widgets such as Slider, Dropdown Menu, Buttons with a little bit of logic. Have a look at the output.
 
