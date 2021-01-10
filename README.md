@@ -87,4 +87,11 @@ the color is and far away from the number is indicated by blue shaded colors. So
 ![](color1.png)
 ![](color2.png)
 
+10.Encode-Decode:
+
+Encode Decode is a GUI python program. The modules used are tkinter and base64. Any text can be encoded and decoded using base64 module. The procedure working behind base64 is the input text, which is a string is first converted to ASCII form. Then its converted to 8bit binary data. Regrouped to 6 bit binary digits. The binary form is then decoded to ASCII and matched with base64 encoding/decoding table.
+
+![](encode.png)
+![](decode.png)
+
 
