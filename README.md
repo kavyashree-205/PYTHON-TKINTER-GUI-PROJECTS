@@ -94,5 +94,9 @@ Encode Decode is a GUI python program. The modules used are tkinter and base64. 
 ![](encode.png)
 ![](decode.png)
 
+11.COVID-INFORMATICA:
+
+This project has the concepts of web scraping and tkinter gui library. For web scraping I have used requests and beautifulsoup library. It shows the total cases, total recovered and total deaths of any country.  The values keep getting updated every 24 hours. The data is collected for the website https://www.worldometers.info/coronavirus/  . The code can excecute only when you are connected to the internet.
+
 
 
