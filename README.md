@@ -101,4 +101,14 @@ This project has the concepts of web scraping and tkinter gui library. For web s
 ![](covid-web.png)
 
 
+12.Sudoku Solver:
+ 
+This is a sudoku solver which demostrates the consept of recursion and backtracking. Backtracking approach is used when all possible solutions are to be found out with a given contrain. A good sudoku puzzle has unique solution. The basic idea is checking every number at blank space position and then backtracking is executed when the solution goes wrong that means not finding any number to fit into empty blank. The GUI interface is made by using tkinter module in python. Every number is checked with certain conditions to fit into empty boxes. The conditions are, if the number to be checked is present in blank box row of column or in the set of box then that number cannot fit inside empty box. 
+Feel free to check out my code and suggestions for optimization is always welcomed.
+
+![](sudoku1.png)
+
+![](sudoku2.png)
+
+
 
