@@ -110,5 +110,10 @@ Feel free to check out my code and suggestions for optimization is always welcom
 
 ![](sudoku2.png)
 
+13.URL Shortener:
+
+In this project I have used bitly_api to generate short url's. Bitly is a trusted website which allows to create short url's. It stores all the url's in the form of dictionary data type. You can get your own access token by simply signing up on bitly website and in profile section there will be an option generate token. Take a look at the output screen
+
+![](url_short.png)
 
 
