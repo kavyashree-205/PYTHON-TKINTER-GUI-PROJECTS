@@ -116,4 +116,10 @@ In this project I have used bitly_api to generate short url's. Bitly is a truste
 
 ![](url_short.png)
 
+14.Weather Report:
+
+This project is very simple and easy. Get the API and access the weather data by using city name. The units are in metric system.
+
+![](weather.png)
+
 
